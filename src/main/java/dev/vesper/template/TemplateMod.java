@@ -1,4 +1,4 @@
-package dev.vesper;
+package dev.vesper.template;
 
 import net.fabricmc.api.ModInitializer;
 
